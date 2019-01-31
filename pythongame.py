@@ -1,7 +1,7 @@
 from sys import exit
 
 def	gold_room():
-	print("This room is full of gold. How much do youu take")
+	print("This room is full of gold. How much do yoleftu take")
 	
 	choice = input("> ")
 	if "0" in choice or "1" in choice:
